@@ -1,4 +1,4 @@
-# latihanlksfront-end-2
+# lks-frontend-vuejs
 
 ## Project setup
 ```
